@@ -12,7 +12,7 @@ on:
     types: [published]
 
   push:
-    branches:
+    branches：
         - master
 
   #schedule:
